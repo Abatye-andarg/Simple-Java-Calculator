@@ -1,7 +1,6 @@
 package calculator_fx;
 
 import javafx.application.Application;
-import static javafx.application.Application.launch;
 import javafx.beans.binding.Bindings;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
